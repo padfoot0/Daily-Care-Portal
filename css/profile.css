@@ -1,0 +1,19 @@
+p
+{
+    color: rgb(31, 136, 17);
+    transform: translate(550px,0px);
+    
+}
+hr
+{
+    color: blue;
+}
+a
+{
+    text-decoration:none;
+    
+}
+div
+{
+    color: darkgreen;
+}
